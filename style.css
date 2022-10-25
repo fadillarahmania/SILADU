@@ -1,0 +1,13 @@
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+.banner {
+    background: url(https://www.portonews.com/wp-content/uploads/2020/01/Pelayanan-Publik.jpg)
+    no-repeat center center;
+    background-size:cover;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    color: #fff;
+}
